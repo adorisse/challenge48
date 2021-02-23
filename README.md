@@ -1,5 +1,6 @@
 # challenge48
-
+SUITE A DES ERREURS SUR GIT NOUS N'AVONS PAS PU  INTEGRER TOUS LES FICHERS NECESSAIRES AU BON  FONCTIONNEMENT DE NOTRE SITE WEB :
+VOICI LE LIEN PERMETTANT DE  TELECHARGER LE FICHIER AVEC TOUS LES  ELEMENTES NECESSAIRES / https://fromsmash.com/desai-mamokosse-palmier-3-3
 
 pomona est le leader français de la distribution livrée de produits alimentaires
 auprès des professionnels de la restauration et des commerces spécialisés de
